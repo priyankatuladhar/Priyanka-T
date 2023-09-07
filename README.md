@@ -37,3 +37,8 @@ I am a Developer <img src=""> from Nepal
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" tile="aws" alt="aws" width="40" height="40"/>&nbsp;
   
 </div>
+
+----
+### 🎆 My Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyankatuladhar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankatuladhar&theme=dark&background=000000)](https://git.io/streak-stats)
