@@ -18,3 +18,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+---
+
+### 👩‍💻 About Me:
+
+I am a Developer <img src=""> from Nepal
+- 🔭 I'm ---
+- 🌱 Exploring Devops Engineering and Cloud
+- ⚡ In my free time, I --
+- 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-Priyanka-blue&style=flatlogo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-tuladhar-/)
+
+---
+
+### ⚒️ Languages and Tools :
+<div>
+  <img src="" title="HTML" alt="HTML"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" tile="aws" alt="aws" width="40" height="40"/>&nbsp;
+  
+</div>
