@@ -27,7 +27,7 @@ I am a Developer <img src=""> from Nepal
 - 🔭 I'm ---
 - 🌱 Exploring Devops Engineering and Cloud
 - ⚡ In my free time, I --
-- 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-Priyanka-blue&style=flatlogo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-tuladhar-/)
+- 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-Priyanka-blue?style=flatlogo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-tuladhar-/)
 
 ---
 
