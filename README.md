@@ -1,4 +1,4 @@
-# Hi I am Priyanka 👩🏼‍🔬 and this is my imaginary online pet dog🐶
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif" width="100" />
 
@@ -13,4 +13,8 @@
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=priyankatuladhar&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
