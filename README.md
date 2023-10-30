@@ -15,7 +15,7 @@
 
 I am a Developer from Nepal
 - 🔭 I'm a recent Computer Engineering Graduate student
-- 🌱 Exploring DevOps Engineering and Cloud
+- 🌱 Exploring Cloud and Software Engineering
 - ⚡ In my free time, I like to read
 - 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-Priyanka-blue?style=flatlogo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-tuladhar-/)
 
