@@ -14,16 +14,15 @@
 ### 👩‍💻 About Me:
 
 I am a Developer from Nepal
-- 🔭 I'm a recent Computer Engineering Graduate student
-- 🌱 Exploring Cloud and Software Engineering
-- ⚡ In my free time, I like to read
+- 🔭 I'm a Computer Engineering Graduate
+- 🌱 Exploring Devops
+- ⚡ In my free time, I like to fix puzzles
 
 ---
 
 ### ⚒️ Languages and Tools :
 <div>
-  <img src="" title="HTML" alt="HTML"width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" tile="aws" alt="aws" width="40" height="40"/>&nbsp;
+ 
   
 </div>
 
