@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <br>
   <img src="https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif" width="100" />
-
+<br>
   <img src="https://komarev.com/ghpvc/?username=priyankatuladhar&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
