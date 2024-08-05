@@ -12,10 +12,7 @@
 
 ### 👩‍💻 About Me:
 
-I am a Developer from Nepal
-- 🔭 I'm a Computer Engineering Graduate
 - 🌱 Exploring Devops
-- ⚡ In my free time, I like to fix puzzles
 
 ---
 
