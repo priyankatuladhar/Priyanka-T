@@ -16,13 +16,6 @@
 
 ---
 
-### ⚒️ Languages and Tools :
-<div>
- 
-  
-</div>
-
-----
 ### 🎆 My Stats:
 
 
