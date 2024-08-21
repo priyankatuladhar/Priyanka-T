@@ -13,6 +13,7 @@
 ### 👩‍💻 About Me:
 
 - 🌱 Exploring Devops
+- Looking into Kubernetes
 
 ---
 
